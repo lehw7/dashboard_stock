@@ -557,12 +557,7 @@ st.markdown(
 
 # Footer with custom styling
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown(
-    """
-    <p style='text-align: left; color: gray; font-size: 14px;'>Developed by Group 5 </p>
-    """,
-    unsafe_allow_html=True,
-)
+
 ####################################################################################################################
 warnings.filterwarnings('ignore')
 
